@@ -1,0 +1,11 @@
+body {
+   background-image: url("https://image.shutterstock.com/display_pic_with_logo/381733/348038567/stock-vector-snowflake-background-for-your-design-348038567.jpg");
+   background-color: #cccccc;
+}
+.custom {
+  cursor: url(https://orig00.deviantart.net/a9d7/f/2013/121/2/8/28321eb7bede167e989493fb8a0ffa85-d63qoib.png), auto;
+}
+h1 {
+  font-size: 100px;
+  color: white;
+}
